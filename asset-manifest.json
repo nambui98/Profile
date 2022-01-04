@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Profile/static/css/main.679a60c0.chunk.css",
+    "main.js": "/Profile/static/js/main.89fecded.chunk.js",
+    "main.js.map": "/Profile/static/js/main.89fecded.chunk.js.map",
+    "runtime-main.js": "/Profile/static/js/runtime-main.137340b7.js",
+    "runtime-main.js.map": "/Profile/static/js/runtime-main.137340b7.js.map",
+    "static/js/2.9d935dd3.chunk.js": "/Profile/static/js/2.9d935dd3.chunk.js",
+    "static/js/2.9d935dd3.chunk.js.map": "/Profile/static/js/2.9d935dd3.chunk.js.map",
+    "static/js/3.8ae838be.chunk.js": "/Profile/static/js/3.8ae838be.chunk.js",
+    "static/js/3.8ae838be.chunk.js.map": "/Profile/static/js/3.8ae838be.chunk.js.map",
+    "index.html": "/Profile/index.html",
+    "static/css/main.679a60c0.chunk.css.map": "/Profile/static/css/main.679a60c0.chunk.css.map",
+    "static/js/2.9d935dd3.chunk.js.LICENSE.txt": "/Profile/static/js/2.9d935dd3.chunk.js.LICENSE.txt",
+    "static/media/Logo.38a52ddc.jpg": "/Profile/static/media/Logo.38a52ddc.jpg",
+    "static/media/united-states.15402a21.png": "/Profile/static/media/united-states.15402a21.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.137340b7.js",
+    "static/js/2.9d935dd3.chunk.js",
+    "static/css/main.679a60c0.chunk.css",
+    "static/js/main.89fecded.chunk.js"
+  ]
+}
